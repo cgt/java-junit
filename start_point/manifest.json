@@ -1,9 +1,8 @@
 {
   "image_name": "cyberdojofoundation/java_junit:97411ac",
-  "display_name": "Java, JUnit",
+  "display_name": "Java, JUnit (minimal)",
   "visible_filenames": [
-    "HikerTest.java",
-    "Hiker.java",
+    "FizzBuzzTestTest.java",
     "cyber-dojo.sh"
   ],
   "filename_extension": [
